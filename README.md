@@ -95,9 +95,10 @@ It includes two parts:
 
 ## 📸 Screenshots (optional)
 - Admission Form GUI  
-
+<img src="./Screenshot 2025-08-21 140838.png" alt="App Screenshot"/>
 - Viewer JTable with data  
-
+<img src="./Screenshot 2025-08-21 140855.png" alt="App Screenshot"/>
+<img src="./Screenshot 2025-08-21 140951.png" alt="App Screenshot"/>
 ---
 
 ## 🤝 Contributing
